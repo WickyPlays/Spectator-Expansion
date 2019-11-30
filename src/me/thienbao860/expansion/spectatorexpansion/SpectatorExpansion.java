@@ -8,7 +8,7 @@ import org.bukkit.event.Listener;
 
 import java.text.DecimalFormat;
 
-public class SpectatorExpansion extends PlaceholderExpansion implements Listener {
+public class SpectatorExpansion extends PlaceholderExpansion {
 
     private final Main plugin;
 
